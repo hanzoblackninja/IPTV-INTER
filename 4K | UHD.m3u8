@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1608071.png" group-title="4K UHD 3840P",4K| SKY SPORTS MAIN EVENTS UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1608071&extension=ts&play_token=ou79p7K8ym
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1608068.png" group-title="4K UHD 3840P",4K| SKY SPORTS 1 UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1608068&extension=ts&play_token=npeB3jTKpj
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1608069.png" group-title="4K UHD 3840P",4K| SKY SPORTS 2 UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1608069&extension=ts&play_token=jHwj4KdESc
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1481950.png" group-title="4K UHD 3840P",4K| ZIGGO SPORT UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1481950&extension=ts&play_token=lgymAOJQ59
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1481941.png" group-title="4K UHD 3840P",4K| ESPN UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1481941&extension=ts&play_token=zpZyB3AxXX
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1595637.png" group-title="4K UHD 3840P",4K| TNT ULTIMATE 4K+ [LIVE-EVENT]
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1595637&extension=ts&play_token=qrersN5vqp
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1471386.png" group-title="4K UHD 3840P",4K| LOVE NATURE UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1471386&extension=ts&play_token=CnLvbs0O9M
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1470604.png" group-title="4K UHD 3840P",4K| BLOOMBERG UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1470604&extension=ts&play_token=2mnnOrke2e
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1470653.png" group-title="4K UHD 3840P",4K| CNN UHD 4K
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1470653&extension=ts&play_token=6zvOb8ChMT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4K| ULTRA CINEMA UHD/4K
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1479590&extension=ts&play_token=Yy5iA7UrQl
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1479591.png" group-title="4K UHD 3840P",4K| TNT SPORTS UHD [EVENT]
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1479591&extension=ts&play_token=MKUNMIOhGy
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1471382.png" group-title="4K UHD 3840P",4K| SKY SPORTS DARTS UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1471382&extension=ts&play_token=3gh93CgKug
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4K| HOME UHD/4K
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1471380&extension=ts&play_token=oL1QJRex4w
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4K| BLOOMBERG+ UHD/4K
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1491209&extension=ts&play_token=zbmL9Goxx8
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1491207.png" group-title="4K UHD 3840P",4K| QVC UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1491207&extension=ts&play_token=s5RdqrZ51D
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4K| FASHION TV UHD/4K
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1491208&extension=ts&play_token=DSILx0vv6g
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1470603.png" group-title="4K UHD 3840P",4K| SPORTSNET 360 UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1470603&extension=ts&play_token=E1fe5Ktpxe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4K| TRAVEL UHD/4K
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1470622&extension=ts&play_token=K1mh06Mz9v
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1471387.png" group-title="4K UHD 3840P",4K| SKY SPORTS UHD [EVENT]
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1471387&extension=ts&play_token=P7BLbXQWGY
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1471385.png" group-title="4K UHD 3840P",4K| COCINA UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1471385&extension=ts&play_token=nYwp4HVUw3
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1471376.png" group-title="4K UHD 3840P",4K| DAZN LA LIGA TV UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1471376&extension=ts&play_token=PAe6zDXIif
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1620282.png" group-title="4K UHD 3840P",4K| LA 1 UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1620282&extension=ts&play_token=2pESbVgHcq
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1471384.png" group-title="4K UHD 3840P",4K| DECASA UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1471384&extension=ts&play_token=7NTnXQp5VK
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1471377.png" group-title="4K UHD 3840P",4K| LIGA CAMPEONES UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1471377&extension=ts&play_token=GYUV0iQjyr
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1471383.png" group-title="4K UHD 3840P",4K| ODISEA UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1471383&extension=ts&play_token=btRGmG4OCF
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1632124.png" group-title="4K UHD 3840P",4K| MUSEUM UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1632124&extension=ts&play_token=Epor7Mxq8i
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1632123.png" group-title="4K UHD 3840P",4K| V SPORT+ UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1632123&extension=ts&play_token=tBTGpu6P8g
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4K| KINO UHD/4K
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1470620&extension=ts&play_token=fSGDlQsF5p
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1470618.png" group-title="4K UHD 3840P",4K| ELEVEN SPORTS 1 UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1470618&extension=ts&play_token=H8xXClswjA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4k| V SPORT UHD/4K
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1749221&extension=ts&play_token=KXFmvxcAFJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4k| YES SPORT 5 UHD/4K
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1749220&extension=ts&play_token=v9PFHkdag6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4k| QUADRO UHD/4K
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1749219&extension=ts&play_token=HHaNB9uNHU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4K| OUR SIBERIA UHD/4K
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1471378&extension=ts&play_token=T3AuuM2dHg
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1491180.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 1 UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1491180&extension=ts&play_token=NXQ5ENlXy6
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1491181.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 2 UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1491181&extension=ts&play_token=q1YJrZFyWR
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1491183.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 3 UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1491183&extension=ts&play_token=o32GNrQRp0
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1491184.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 4 UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1491184&extension=ts&play_token=meR8pVGw8H
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1491185.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 5 UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1491185&extension=ts&play_token=asgkTiiCDU
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1491186.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 6 UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1491186&extension=ts&play_token=WNhQPxBtct
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1491187.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 7 UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1491187&extension=ts&play_token=H9b9hU1tmF
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1491188.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 8 UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1491188&extension=ts&play_token=fWMiyXuhcA
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1491189.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 9 UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1491189&extension=ts&play_token=O9otfdpqoK
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1632122.png" group-title="4K UHD 3840P",4K| DIGI UHD
+http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1632122&extension=ts&play_token=NL8DOq5K9F
